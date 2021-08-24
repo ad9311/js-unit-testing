@@ -1,6 +1,6 @@
 # Javascript Unit Testing
 
-> This is small software that tests individual units using [Jest](https://jestjs.io/).
+> This a is small software that tests individual units using [Jest](https://jestjs.io/).
 
 ## Getting Started
 

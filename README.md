@@ -8,13 +8,14 @@ To get a local copy up and running follow these simple example steps:
 
 - clone the repo with `git clone https://github.com/ad9311/js-unit-testing.git`
 - change directory to the root folder `cd js-unit-testing`
+- run `npm install` to install dependecies.
 - run `yarn test` to run all tests.
 
 ### Prerequisites
 
 - [NPM](https://docs.npmjs.com/getting-started)
 
-- Yarn `npm install -g yarn`
+- Yarn `npm install -g yarn` **for global use**
 
 ## Author
 

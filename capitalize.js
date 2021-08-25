@@ -6,4 +6,4 @@ function capitalize(string) {
   }
 }
 
-module.exports = capitalize;
+export default capitalize;

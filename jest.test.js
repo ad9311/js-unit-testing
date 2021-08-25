@@ -1,6 +1,6 @@
-const stringLength = require('./string_length.js');
-const reverseString = require('./reverse_string.js');
-const capitalize = require('./capitalize.js');
+import stringLength from './string_length.js';
+import reverseString from './reverse_string.js';
+import capitalize from './capitalize.js';
 
 describe('Checks the two possible outputs', () => {
   test('Returns string length between 1 and 9 characters', () => {

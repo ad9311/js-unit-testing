@@ -4,4 +4,4 @@ function reverseString(string) {
   return rString.toString().replace(/[,]/g, '');
 }
 
-module.exports = reverseString;
+export default reverseString;
